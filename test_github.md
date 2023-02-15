@@ -30,3 +30,6 @@ git add
 git commit -m "yourmessage"
 ```
 git push
+
+
+learn more about github clone and git synchronization with VScode from this: [Link](https://education.github.com/git-cheat-sheet-education.pdf)
